@@ -1,0 +1,85 @@
+Map111.bmp: ¡Estas en el Mar!
+Map112.bmp: ¡Estas en el Mar!
+Map113.bmp: ¡Estas en el Mar!
+Map114.bmp: ¡Estas en el Mar!
+Map121.bmp: ¡Estas en el Mar!
+Map122.bmp: Al parecer no hay lugares turísticos cerca tuyo
+Map123.bmp: Al parecer no hay lugares turísticos cerca tuyo
+Map124.bmp: Al parecer no hay lugares turísticos cerca tuyo
+Map131.bmp: ¡Estas en el Mar!
+Map132.bmp: Casa Museo Isleña
+Map133.bmp: ¡Estas en el MAR!
+Map134.bmp: Schooner Bight
+Map134.bmp: Museo Morgan´s Cave
+Map141.bmp: La Laguna Caimanera
+Map142.bmp: La Loma
+Map142.bmp: La Laguna Caimanera
+Map143.bmp: Laguna Big Pond
+Map144.bmp: Laguna Big Pond
+Map144.bmp: Pomare Hill
+Map211.bmp: Primera Iglesia Bautista Hispana 
+Map211.bmp: Sarie Bay
+Map212.bmp: Primera Iglesia Bautista Hispana
+Map212.bmp: Aeropuerto Internacional Gustavo Rojas Pinilla
+Map212.bmp: Sarie Bay
+Map212.bmp: 
+Map212.bmp: Estadio de Béisbol
+Map213.bmp: Perry Hill
+Map214.bmp: Parque Nacional Manglares de Old Point
+Map221.bmp: Playa Principal San Andrés Isla
+Map221.bmp: Playa Spratt Bight
+Map221.bmp: Cañon de Morgan 
+Map221.bmp: Muelle Portofino
+Map222.bmp: Islote Sucre
+Map222.bmp: Cañon de Morgan
+Map223.bmp: La Barracuda
+Map223.bmp: Muelle Portofino
+Map224.bmp: ¡Estas en el Mar!
+Map231.bmp: Al parecer no hay sitios turísticos cerca
+Map232.bmp: Parque Nacional Manglares de Old Point
+Map232.bmp: Cocoplum Bay
+Map233.bmp: Alto Harmony Hall
+Map233.bmp: Pomare Hill
+Map234.bmp: Rocky Cay
+Map241.bmp: ¡Estas en el Mar!
+Map242.bmp: Rocky Cay
+Map243.bmp: Rocky Cay
+Map244.bmp: Acuario San Andrés
+Map244.bmp: Islote Córdoba
+Map311.bmp: Al parecer no hay sitios turisticos cercanos
+Map312.bmp: Cove Sea Side
+Map313.bmp: ¡Estas en el Mar!
+Map314.bmp: Eco Parque West View
+Map314.bmp: La Piscinita
+Map314.bmp: Far West
+Map314.bmp: La Piscinita Natural
+Map321.bmp: Al parecer no hay sitios turisticos cerca
+Map322.bmp: La Piscinita Natural
+Map323.bmp: Al parecer no hay sitios turisticos cerca
+Map324.bmp: Playa San Luis
+Map324.bmp: Jardín Botánico de San Andrés
+Map331.bmp: Al parecer no hay sitios turisticos cerca
+Map332.bmp: Fisher Rock
+Map333.bmp: Al parecer no hay sitios turisticos cerca
+Map334.bmp: El Hoyo Soplador
+Map341.bmp: South End (Mirador)
+Map341.bmp: Elsie Bar
+Map342.bmp: Elsie Bar
+Map343.bmp: Playa Charquitos
+Map344.bmp: ¡Estas en el Mar!
+Map411.bmp: Al parecer no hay sitios turisticos cerca
+Map412.bmp: ¡Estas en el Mar!
+Map413.bmp: ¡Estas en el Mar!
+Map414.bmp: ¡Estas en el Mar!
+Map421.bmp: ¡Estas en el Mar!
+Map422.bmp: ¡Estas en el Mar!
+Map423.bmp: ¡Estas en el Mar!
+Map424.bmp: ¡Estas en el Mar!
+Map431.bmp: ¡Estas en el Mar!
+Map432.bmp: ¡Estas en el Mar!
+Map433.bmp: ¡Estas en el Mar!
+Map434.bmp: ¡Estas en el Mar!
+Map441.bmp: ¡Estas en el Mar!
+Map442.bmp: ¡Estas en el Mar!
+Map443.bmp: ¡Estas en el Mar!
+Map444.bmp: ¡Estas en el Mar!
